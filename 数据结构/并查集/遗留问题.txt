@@ -1,0 +1,2 @@
+洛谷 P2941 [USACO09FEB]Surround the Islands S tarjan缩点或并查集 蓝题 实际就是个并查集的题目
+POJ 2492

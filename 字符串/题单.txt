@@ -1,0 +1,8 @@
+字符串题单 已经收录 https://blog.csdn.net/leolin_/category_816331.html
+
+focus_best 专栏里有比较好的
+字典树:https://blog.csdn.net/u013480600/category_2173255.html
+ac自动机:https://blog.csdn.net/u013480600/category_2179307.html
+后缀数组:https://blog.csdn.net/u013480600/category_2198615.html
+
+My_ACM_Dream 有很多题单

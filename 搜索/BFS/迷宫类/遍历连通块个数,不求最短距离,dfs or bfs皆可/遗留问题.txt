@@ -1,0 +1,10 @@
+HDU 1175 并不难,可以试试 看懂了 后来没时间写了
+HDU 1198
+CF598D
+UVA657 The die is cast
+CodeForces 616C The Labyrinth
+LightOJ - 1111 Best Picnic Ever
+LightOJ 1012
+CodeForces 510B Fox And Two Dots
+HDU 4740 The Donkey of Gui Zhou
+HDU 5546 以前在dfs里做过 试着bfs做下

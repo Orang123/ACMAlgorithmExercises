@@ -1,0 +1,4 @@
+洛谷P1064 金明的预算方案 泛化物品、dp[M][2]、传统树形背包的做法没看,徐持衡最后那个做法不推荐再看
+
+一个好的依赖背包讲解:https://mp.weixin.qq.com/s/nM6atdcZ9wbtzIut1mn3cQ
+https://zhuanlan.zhihu.com/p/85783138 有些例题

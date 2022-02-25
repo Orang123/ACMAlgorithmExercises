@@ -1,0 +1,2 @@
+Libreoj 136 可以试试kurskal重构树+lca或kruskal+lca求取两点间最大距离
+UVA10816 最小瓶颈路+最短路

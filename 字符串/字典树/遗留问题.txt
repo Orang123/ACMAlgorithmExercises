@@ -1,0 +1,18 @@
+HDU 4099 Revenge of Fibonacci(高精度加法+字典树Trie)
+hdu4757(LCA+可持久化字典树)
+poj 2513 Colored Sticks(欧拉通路+并查集+字典树)
+hdu 4760 Good Firewall 情景题 不好理解
+Codeforces 455B A Lot of Games(字典树+博弈)
+uva 1519 - Dictionary Size(字典树) 计数问题,看不懂原理 从已有单词中选出非空前缀和非空后缀，组成新单词。问说能组成多少个单词。
+uva 1556 - Disk Tree(字典树) 输出层级目录,简单,需要用到map 递归输出
+HDU 3460（字典树+找规律） 规律不好找
+
+题单:
+JeraKrs:
+https://blog.csdn.net/keshuai19940722/category_2280637.html
+
+focus_best:
+https://blog.csdn.net/u013480600/category_2173255.html?spm=1001.2014.3001.5482
+
+围巾的ACM:
+https://blog.csdn.net/qq_21057881/category_6019761.html?spm=1001.2014.3001.5482

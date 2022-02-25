@@ -1,0 +1,3 @@
+HDU 3442 Three Kingdoms 有难度,状态压缩+优先队列 比较繁琐 有攻击距离(曼哈顿距离)的因素
+POJ 1324 标准做法是A*启发式搜索 还没尝试
+UVA1377 Ruler https://www.luogu.com.cn/problem/solution/UVA1377 其实是道bfs+状压 好像也有IDA* 没必要用IDA*

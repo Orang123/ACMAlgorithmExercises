@@ -1,0 +1,23 @@
+
+POJ 3249 感觉并不是记忆化搜索,是拓扑排序 求解最大点权和路径
+
+CSU 1105 链接:https://blog.csdn.net/liusuangeng/article/details/44245543 题意没看懂
+
+洛谷P1280 题意没看懂
+
+好的记忆化搜索 题单 
+https://blog.csdn.net/keshuai19940722/category_1615803.html?spm=1001.2014.3001.5482 JeraKrs
+https://blog.csdn.net/zjsyhjh/category_2291111.html iHge2k
+https://blog.csdn.net/u012997373/category_2444403.html miss_minor
+https://www.cnblogs.com/qscqesze/category/672564.html
+https://blog.csdn.net/weixin_45697774/category_10366735.html?spm=1001.2014.3001.5482
+https://www.cnblogs.com/AOQNRMGYXLMV/category/600073.html
+https://www.cnblogs.com/shu-xiaohao/tag/%E8%AE%B0%E5%BF%86%E5%8C%96%E6%90%9C%E7%B4%A2/
+
+UVA437 巴比伦塔 The Tower of Babylon
+uva 1390 - Interconnect(期望+哈希+记忆化)
+uva 1076 - Password Suspects(AC自动机+记忆化搜索)
+
+POJ 3373 好像是数为dp
+
+POJ2033 LA3078 HDU1508 ZOJ2202 Alphacode【DFS+DP】 比较简单的记忆化搜索

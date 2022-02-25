@@ -1,0 +1,7 @@
+UVA 11354 lca+最小生成树
+洛谷P3280 [SCOI2013]摩托车交易 kruskal重构树+lca倍增
+【BZOJ 3732】Network krskal+lca 或kruskal重构树
+「NOIP 2013 D1T3」货车运输 kruskal重构树+倍增
+UVA 10462 UVA 10600 试着用lca倍增计算树上任意两点间最大边权
+还有最小瓶颈路 LibreOj 136 可以试试lca倍增做法
+kruskal重构树

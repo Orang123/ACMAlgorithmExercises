@@ -1,0 +1,17 @@
+背包九讲中 01背包问题 背包容量j的下界的常数优化 j>=max(V-求和val[i],w[i]) 如何理解？
+背包问题 还可用母函数解决,暂时还没了解母函数是一种粘在数学角度的办法
+
+背包问题 遗留题目题单:
+https://blog.csdn.net/u013625492/category_2907525.html
+https://blog.csdn.net/tigerisland45/category_7947173.html
+
+https://blog.csdn.net/zhouzi2018/category_7944951.html?spm=1001.2014.3001.5515
+https://blog.csdn.net/stay_accept/category_6384848.html
+https://blog.csdn.net/zhou_yujia/category_6219694.html?spm=1001.2014.3001.5482
+https://blog.csdn.net/qq_33997572/category_6958593.html?spm=1001.2014.3001.5482
+https://blog.csdn.net/qq_21057881/category_5966303_3.html
+https://blog.csdn.net/qq_34374664/category_6450777.html
+
+https://blog.csdn.net/u013480600/category_2160339.html
+https://blog.csdn.net/u013480600/category_2656071.html
+https://blog.csdn.net/u013480600/category_2668007.html

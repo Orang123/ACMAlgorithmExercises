@@ -1,0 +1,11 @@
+洛谷P4768 只有78分 没做对,不知什么原因
+洛谷P3280 [SCOI2013]摩托车交易 kruskal重构树+lca倍增 没做
+【BZOJ 3732】Network krskal+lca 或kruskal重构树
+「NOIP 2013 D1T3」货车运输 kruskal重构树+倍增
+https://blog.csdn.net/forever_dreams/category_7892130.html 有很好的题集
+https://blog.csdn.net/hwzzyr/article/details/81190442 好的题集
+https://blog.csdn.net/sslz_fsy/article/details/86632949
+洛谷P4197
+GYM 101173H Hangar Hurdles
+CF 1417F Graph and Queries
+liberoj 137 试试st-RMQ直接O(1)返回最大权值,而不是返回lca编号的做法.

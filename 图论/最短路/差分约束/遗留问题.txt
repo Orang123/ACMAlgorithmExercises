@@ -1,0 +1,3 @@
+洛谷P1250种树 题目没太看明白
+Bellman-Ford 判负环代码实现  OI-wiki
+洛谷 P3530 [POI2012]FES-Festival 差分约束+tarjan缩点+最长路

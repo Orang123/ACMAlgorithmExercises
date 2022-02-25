@@ -1,0 +1,24 @@
+lightoj 1021 Painful Bases 数位dp+状压
+CF 401D Roman and Numbers 数位dp+状压 和lightoj 1021好像是一道题
+poj 3373 数位dp
+POJ 3340 非记忆化搜索的数位dp,看懂了80%,细节点没太看懂,还没做
+HDU 5456 拼火柴棍 难度较大
+HDU 5576 比较难,较复杂
+HDU 5787 题意不好理解,是数位dp记忆化搜索的板子,但是不太理解做法
+P3413 SAC#1 - 萌数 要判断个数大于2的回文,有点麻烦了,还没做
+HDU 4507 自己想的比较简单,但是标程却需要byte数组,不知啥原因,题并不难,还没做
+SPOJ 1182 数位dp+二分还没做
+
+数位dp好的题单:
+JeraKrs:有好多 非记忆化搜索的数位dp,不太好做,很多都暂时没做
+https://blog.csdn.net/keshuai19940722/category_2273333.html?spm=1001.2014.3001.5482
+
+My_ACM_Dream: 有很多题,还没看
+https://blog.csdn.net/my_acm_dream/category_2768269.html 还有别的dp模型题单
+
+Stayaccept:已经看完了
+https://blog.csdn.net/stay_accept/category_6384864.html
+
+键盘里的青春:除了HDU 4507 都做了
+https://blog.csdn.net/qq_34374664/category_6480159.html?spm=1001.2014.3001.5482
+

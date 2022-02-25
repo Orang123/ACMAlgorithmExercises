@@ -1,0 +1,16 @@
+洛谷P4782  P3825   P5297 POJ 3678
+
+POJ 3683 感觉这里是刚好时间不会重叠的时候 为什么会作为矛盾条件返回1
+刘汝佳的 爆搜版本没太理解 HDU 1814需要重做  这里为什么i结点 出矛盾了后,还要继续判定i+1结点出矛盾才能判定 整体不能有n个人同时出席？
+
+https://www.bilibili.com/video/BV11741187oK?p=2   2-sat问题的详细视频讲解
+https://blog.csdn.net/gyp0205/article/details/109636399 2-sat详细博客讲解
+http://codeforces.com/gym/101987 2018-2019 ACM-ICPC Asia Seoul Regional K TV Show Game
+
+POJ 3683 3678 3207 2723 3648
+2-sat题单
+https://blog.csdn.net/qq_34374664/category_7034970.html
+https://blog.csdn.net/l123012013048/category_5721479.html
+https://blog.csdn.net/shuangde800/category_1408597.html
+还有围巾的ACM里的题目
+洛谷 P6378 [PA2010]Riddle

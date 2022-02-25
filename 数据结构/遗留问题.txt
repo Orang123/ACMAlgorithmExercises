@@ -1,0 +1,3 @@
+Codeforces 486E LIS of Sequence(线段树+LIS)
+hdu 5406 CRB and Apple（树状数组+dp）
+hdu 5489 Removed Interval（线段树+LIS）

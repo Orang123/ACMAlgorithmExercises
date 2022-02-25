@@ -1,0 +1,1 @@
+POJ 1422 可转化为网络流问题 https://www.cnblogs.com/zxyoi/archive/2004/01/13/10047233.html

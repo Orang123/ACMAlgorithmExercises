@@ -1,0 +1,3 @@
+HDU 2196 记忆化搜索 map映射没看懂
+换根dp题单:https://blog.csdn.net/dreaming__ldx/category_7826282.html
+POJ 3585

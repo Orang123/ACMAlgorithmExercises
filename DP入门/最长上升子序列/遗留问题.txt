@@ -1,0 +1,18 @@
+LCS LIS 题集:
+未看:
+https://blog.csdn.net/qq_36368339/category_6729546.html UCAS王小二
+https://blog.csdn.net/zhou_yujia/category_6219697.html?spm=1001.2014.3001.5482 MissZhou要努力
+https://blog.csdn.net/tigerisland45/category_9827807.html 海岛Blog 还有点题型 二维LIS没看
+已看:
+https://blog.csdn.net/u013480600/category_2650821.html focus_best
+https://blog.csdn.net/vv494049661/category_6081535.html big up
+https://blog.csdn.net/keshuai19940722/category_1613215.html JeraKrs
+
+uva 10599 - Robots(II)(LIS) 网格二维LIS 没太理解
+hdu 4604 Deque（LIS） 有点复杂
+hdu 4681 String（LIS+暴力） 也比较复杂
+Codeforces 486E LIS of Sequence(线段树+LIS)
+hdu 5406 CRB and Apple（树状数组+dp）
+hdu 5489 Removed Interval（线段树+LIS）
+
+

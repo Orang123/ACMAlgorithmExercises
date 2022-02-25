@@ -1,0 +1,16 @@
+HDU 1421需要重新做做 看完背包dp后再做
+POJ 2247 类数位dp 也需要重新做做
+
+这里dp入门 是对各种dp模型的一种总的概括,不算专题性训练，就是认识dp.
+
+https://zhuanlan.zhihu.com/p/339478202 一些入门的dp问题汇总
+
+
+子序列 题单:https://blog.csdn.net/leolin_/category_845507.html
+
+子序列相关:MissZhou要努力
+
+还差最大子段和这个专题,是有些内容的,和前缀和有关 在海岛blog里
+
+
+

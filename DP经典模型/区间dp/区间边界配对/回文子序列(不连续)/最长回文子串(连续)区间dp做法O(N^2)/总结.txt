@@ -1,0 +1,5 @@
+HDU 3068 求解最长回文子串长度 这题数据 110000 如果用这里的O(N^2)算法,既TLE 由MLE
+所以当n>2000还是考虑采用 Manacher来做,另外Manacher 输出最长回文子串的做法考虑下
+https://acm.timus.ru/problem.aspx?space=1&num=1297  
+(timus OJ注册了个账号Orang 绑了qq邮箱密码:123456，OJ上找不到登陆选项) n<=1000的 最长回文子串的例题
+leetcode上一般这类问题 n<=1000

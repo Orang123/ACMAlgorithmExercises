@@ -1,0 +1,23 @@
+洛谷P3177HAOI2015 树上染色
+洛谷P1270 访问美术馆 洛谷P3360 偷天换日 二叉树 边权花费 价值在点权,并且获取点权也需要花费 算法并不难,时间关系 还没写,时间乘2那里稍微有点疑惑 https://blog.csdn.net/qq_35776409/article/details/62890710?locationNum=10&fps=1
+洛谷 软件安装
+CF 581F 较难 三维树上分组背包 有黑白染色问题 多少点对
+HDU 4044 GeoDefense 较复杂 难度较大
+vijos P1642 班长的任务 有篇附带的论文 浅谈数据的合理组织
+洛谷 P2515 [HAOI2010]软件安装 tarjan+树形背包
+洛谷P1169 树上分组背包
+洛谷P2093 零件分组
+HDU 5148 和树上期望距离有关 期望距离有点偏数学推理
+HDU 4616 三维复杂 有难度 每个点有陷阱,在c次陷阱下 最多能获得的价值 需要考虑想根节点走还是叶子节点走
+vijos p1642 和CTSC1997选课是同种类型题,比较裸的树形背包 树上分组背包O(n*v^2)可能超时,《浅谈几类背包问题》dfs后序01背包O(nv)做法 标准程序可以过.
+
+树形dp好的题单(还剩下非背包类的):
+https://blog.csdn.net/my_acm_dream/category_2768273.html?spm=1001.2014.3001.5482
+https://blog.csdn.net/stay_accept/category_6384863.html?spm=1001.2014.3001.5482
+https://blog.csdn.net/acmmmm/category_1523593.html?spm=1001.2014.3001.5482
+https://blog.csdn.net/keshuai19940722/category_1909649.html?spm=1001.2014.3001.5482
+https://blog.csdn.net/qq_33229466/category_6120134.html?spm=1001.2014.3001.5482
+https://blog.csdn.net/nike0good/category_1204361.html
+https://blog.csdn.net/qq_42576687/category_9199370.html
+https://blog.csdn.net/zhou_yujia/category_6219692.html?spm=1001.2014.3001.5482
+https://blog.csdn.net/jtjy568805874/category_2910469.html?spm=1001.2014.3001.5482

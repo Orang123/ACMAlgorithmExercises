@@ -1,0 +1,104 @@
+HDU 5624 使用 dfs找到指定起点和终点路径上最小/大边权的方法,事实上可以采用lca 倍增的办法,
+去求解树上任意两点之间的最大边权和最小边权
+
+UVALive 6837 There is No Alternative可以试试只跑一次kruskal,然后倍增求解lca,根据未加入mst
+的边和mst上的路径构成的环,如果这条边和换上路径有几条边相等,那么这些相等的边就都不是必须的,
+边数和权值和应该去除这些边,因为要遍历环上路径的每一条边所以两端点向lca靠近时不能倍增,只能线性
+向上走,比较每一条边,但是lca节点编号的求取是可以直接用倍增lca的,这样相比较于直接dfs遍历指定起点
+终点的路径要快,因为dfs可能要尝试很多遍,而求取出lca后,直接根据父亲节点向上走即可,时间界是O(n)的.
+
+洛谷P1967 貌似还可用tarjan和 树链刨分  还可以不用lca 启发式合并加set操作
+UVA 11354 lca+最小生成树
+洛谷P3280 [SCOI2013]摩托车交易 kruskal重构树+lca倍增
+【BZOJ 3732】Network krskal+lca 或kruskal重构树
+「NOIP 2013 D1T3」货车运输 kruskal重构树+倍增
+UVA 10462 UVA 10600 试着用lca倍增计算树上任意两点间最大边权
+还有最小瓶颈路 LibreOj 136 可以试试lca倍增做法
+kruskal重构树
+
+关于非严格次小生成树、严格次小生成树和最小瓶颈路 以及Kurskal重构树的题目需要再用lca倍增做做.
+洛谷P5058 如果增强数据加上q次询问 可以考虑lca倍增或st表lca倍增的做法遍历圆方树
+洛谷P4606 SDOI2018 战略游戏 圆方树+dfs序+倍增lca
+洛谷P3320 SDOI2005寻宝游戏 dfs序+倍增lca
+[CodeForces 487E]Tourists 圆方树+lca+线段树
+洛谷 P4334 [COI2007] Policija 圆方树+lca(树剖 因为倍增空间会炸) 还没做 留了份比较好的板子
+洛谷 P6436 「EZEC-1」越狱 最短路+lca
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+启发式合并加set操作
+#include <bits/stdc++>
+using namespace std;
+int n,m,q;
+set<int>::iterator it;
+const int maxm = 50005;
+const int maxn = 11111;
+set<int> Q[11111];
+struct edge{
+    int u,v,cost;
+    friend bool operator <(edge e1,edge e2){
+        return e1.cost > e2.cost;
+    }
+}es[maxm];
+int ans[maxm];
+int parent[maxn];
+int find(int x){
+    return x == parent[x]?x:parent[x] = find(parent[x]);
+}
+int main(){
+    memset(ans,-1,sizeof(ans));
+    for(int i = 1;i < maxn;++i)
+        parent[i] = i;
+    scanf("%d%d",&n,&m);
+    for(int i = 0;i < m;++i)
+        scanf("%d%d%d",&es[i].u,&es[i].v,&es[i].cost);
+    sort(es,es+m);
+    scanf("%d",&q);
+    for(int i = 0;i < q;++i){
+        int x,y;
+        scanf("%d%d",&x,&y);
+        Q[x].insert(i);
+        Q[y].insert(i);
+    }
+    for(int i = 0;i < m;++i){
+        int x = es[i].u,y = es[i].v,c = es[i].cost;
+        int px = find(x),py = find(y);
+        if(px == py) continue;
+        else{
+            if(Q[px].size() > Q[py].size())
+                swap(px,py);
+            vector<int> tmp;
+            for(it = Q[px].begin();it != Q[px].end();++it){
+                int id = *it;
+                if(Q[py].count(id)){
+                    ans[id] = c;
+                    tmp.push_back(id);
+                }
+                Q[py].insert(id);
+            }
+            for(int i = 0;i < tmp.size();++i)
+                Q[py].erase(tmp[i]);
+            parent[px] = py;
+        }
+    }
+    for(int i = 0;i < q;++i)
+        printf("%d\n",ans[i]);
+}
+
+https://blog.csdn.net/qq_43857314/article/details/107565521

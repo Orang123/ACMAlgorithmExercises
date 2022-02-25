@@ -1,0 +1,16 @@
+题库:
+海岛Blog:
+https://blog.csdn.net/tigerisland45/category_8269162.html
+
+HDU 6485 尺取 没看懂做法 https://blog.csdn.net/weixin_51250927/article/details/113774850 这份代码好看点
+POJ 3320 还有点不太清晰,看懂一点,但不难
+POJ 3061 前缀和+二分的做法 大概看懂了,没写
+
+HDU 6231 二分+尺取 没看懂
+长安大学第三届ACM-ICPC程序设计竞赛 C （二分+尺取） 没看 链接:https://ac.nowcoder.com/acm/contest/102/C?&headNav=www&headNav=acm
+
+有几道最大子段和 和dp相关 但好像并不是尺取如下:海岛Blog里有
+1.POJ 1050
+2.HDU 1003
+
+POJ 3320 和常规尺取的板子不太一样,实际也没太看明白问题

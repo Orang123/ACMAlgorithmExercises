@@ -1,0 +1,7 @@
+二分的两种形式：
+
+1、范围缩小时，r = mid，l = mid + 1，取中间值时，mid = (l + r) >> 1.
+
+2、范围缩小时，l = mid，r = mid - 1，取中间值时，mid = (l + r + 1) >> 1;
+
+https://mp.weixin.qq.com/s/JG2iqEIczIBUvnWHTkvNjg  二分边界问题讲解视频,夜深人静写算法博主

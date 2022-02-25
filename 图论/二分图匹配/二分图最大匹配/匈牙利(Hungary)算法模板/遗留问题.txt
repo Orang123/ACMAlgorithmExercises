@@ -1,0 +1,9 @@
+
+到底什么是"匈牙利树" https://blog.csdn.net/Oudasheng/article/details/89093376(这个举了几个例子)
+
+二分图最大匹配可以转化为网络流问题
+将左边所有点接上源点,右边所有点接上汇点,容量皆为1.原来的每条边从左往右连边,容量也皆为1,
+最大流即最大匹配。
+
+Hopcroft-Carp算法板子题 HDU 2389 Rain on your Parade O(sqrt(V)*E)
+light oj 1356 Prime Independence 筛素数 判断素因子+最大独立集、 此题是Hopcroft-Carp求解最大匹配 O(根号n*E)

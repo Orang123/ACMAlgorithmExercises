@@ -1,0 +1,5 @@
+洛谷P2279 [HNOI2003]消防局的设立 覆盖长度为2的 全覆盖问题 思维量较大
+洛谷P2607 [ZJOI2008]骑士 没有上司舞会变形,基环树
+
+https://www.cnblogs.com/SillyTieT/p/11523364.html 很好的树上最大独立集题单
+UVALive2038(树形dp)

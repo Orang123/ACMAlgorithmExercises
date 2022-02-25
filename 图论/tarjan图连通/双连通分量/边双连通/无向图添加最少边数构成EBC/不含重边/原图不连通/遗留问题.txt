@@ -1,0 +1,2 @@
+UVA 10972 关于缩点后,度为0加2,度为1 加1的证明 没仔细研究
+洛谷题解讲的很详细:https://www.luogu.com.cn/problem/solution/UVA10972

@@ -1,0 +1,10 @@
+https://blog.csdn.net/u011815404/article/details/85858501
+就是有向图中的 最小生成树 算法比较古老 没有相关的证明 应该用的不是很多
+算法并没研究 没看懂 有时间了 再看
+例题
+POJ3164 HDU 2121
+CodeForces - 240E UVA - 11865  HYSBZ - 4349 HDU - 4966 HDU - 4009 HDU - 2121
+
+HDU 2121 无根节点最小树形图
+HDU 4009 POJ3164 最小树形图模板题
+洛谷P2792 [JSOI2008]小店购物

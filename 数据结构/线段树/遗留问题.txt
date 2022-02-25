@@ -1,0 +1,20 @@
+[CodeForces 487E]Tourists 圆方树+lca+线段树
+POJ 1976 A Mini Locomotive 背包做法会被hack掉 正解应该是线段树,在二维背包专题里记录了做法
+
+HDU 5692 dfs序+线段树
+CodeForces 629D Babaei and Birthday Cake（线段树维护DP）
+（CodeForces - 514D）R2D2 and Droid Army 线段树+二分
+
+线段树题单:
+分类比较全面的题单:MetalSeed 有好多还没看 下次再做 先看这个
+https://blog.csdn.net/metalseed/article/details/8039326
+
+围巾的ACM 基本做完
+https://blog.csdn.net/qq_21057881/category_6104962.html?spm=1001.2014.3001.5482
+
+键盘里的青春 基本做完
+https://blog.csdn.net/qq_34374664/category_6370450.html?spm=1001.2014.3001.5482
+
+JeraKrs 77篇 都没做
+https://blog.csdn.net/keshuai19940722/category_1878601.html?spm=1001.2014.3001.5482
+

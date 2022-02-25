@@ -1,0 +1,60 @@
+下面这几个题 都会做,在我能力范围之内 还没做,记得做
+HDU 4403 枚举'+'和'='的位置 问多少方程成立 比较简单
+HDU 3699 会做 5个字母枚举每个字母对应的排列 判断5个操作符下 有多少种可能使等式成立 不含前导0
+POJ 2197 较简单
+HDU 1044 Collect More Jewels(BFS+DFS) 有所难度
+POJ 3373 好像是数为dp
+HDU 4770 枚举位运算 状压
+HDU 3839(world final) 题意太深奥
+
+AOJ0525 Osenbei【DFS+状态组合】
+
+dfs题单:
+JeraKrs
+https://blog.csdn.net/keshuai19940722/category_1541599_4.html 暴力搜索
+https://blog.csdn.net/keshuai19940722/category_1790799.html 算法设计-递归求解
+
+HelloWorld10086
+https://blog.csdn.net/helloworld10086/category_2430019.html dfs or bfs
+https://blog.csdn.net/helloworld10086/category_2471409.html 回溯
+
+lab104_yifan
+https://blog.csdn.net/accelerator_/category_1771623.html 搜索-回溯法
+
+LYoGa
+https://blog.csdn.net/u011345461/category_1515833.html 搜索
+https://blog.csdn.net/u011345461/category_1568491.html 搜索-回溯法
+
+miss_minor
+https://blog.csdn.net/u012997373/category_2166249.html 暴力-回溯-简单
+https://blog.csdn.net/u012997373/category_2257693.html 暴力-回溯-难
+https://blog.csdn.net/u012997373/category_2373231.html 算法设计
+https://blog.csdn.net/u012997373/category_1922257_2.html 暴力求解
+
+shuangde800
+https://blog.csdn.net/shuangde800/category_1185703.html Brute Force__回溯法
+
+七情六欲
+https://blog.csdn.net/qq_35776409/category_6949971.html 搜索
+
+九野的博客：
+https://blog.csdn.net/acmmmm/category_1608295.html?spm=1001.2014.3001.5482 DFS
+
+键盘上的舞者
+https://blog.csdn.net/libin56842/category_1433744_2.html
+
+
+海岛Blog
+https://blog.csdn.net/tigerisland45/category_8575052.html ICPC-DFS
+iHge2k
+https://blog.csdn.net/zjsyhjh/category_2291089.html
+focus_best
+https://blog.csdn.net/u013480600/category_2248309.html
+
+
+纯二进制枚举子集的题:UVA565 Pizza Anyone? 理解了 还没做 没必要做了
+题意比较难理解的UVA回溯dfs题目 难度也较大 不建议做:
+UVA185 Roman Numerals 需要枚举上下界
+UVA10123 No Tipping 力矩平衡 比较难理解 做法也较难
+UVA10001 Garden of Eden
+

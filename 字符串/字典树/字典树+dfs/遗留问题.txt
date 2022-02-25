@@ -1,0 +1,3 @@
+uva 1385 - Billing Tables dfs建立字典树,情景题,题意不太好理解
+Codeforces 601D Acyclic Organic Compounds（dfs+字典树合并） 好题，还没看
+UVALive 7043 International Collegiate Routing Contest

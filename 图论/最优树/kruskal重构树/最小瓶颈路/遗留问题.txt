@@ -1,0 +1,3 @@
+Libreoj 136 可以试试kurskal重构树+lca或kruskal+lca求取两点间最大距离
+Libreoj 137 试试st-RMQ直接O(1)返回最大权值,而不是返回lca编号的做法.
+UVA10816 最小瓶颈路+最短路

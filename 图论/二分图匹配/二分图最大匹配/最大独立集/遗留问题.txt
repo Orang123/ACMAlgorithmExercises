@@ -1,0 +1,6 @@
+HDU 4619 网络流的做法
+light oj 1356 Prime Independence 筛素数 判断素因子+最大独立集、 此题是Hopcroft-Carp求解最大匹配 O(根号n*E)
+CF Gym 101201G Maximum Islands dfs求连通块+最大独立集
+QDUOJ 29 帅气的HYC与N皇后 (最大独立集)
+最大团模板题 应用Bron-Kerbosch 算法
+Maximum Clique(HDU-1530) Graph Coloring(POJ-1419)

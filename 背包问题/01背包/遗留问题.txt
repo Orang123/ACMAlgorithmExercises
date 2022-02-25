@@ -1,0 +1,33 @@
+HDU 1171 母函数做法
+CF 366C Dima and Salad 参考博客 有点偏数学 https://blog.csdn.net/qq_34374664/article/details/60873073 https://blog.csdn.net/zsd201531107026/article/details/66969800
+Ural 1017 楼梯问题/整数拆分（01背包/dp/母函数） https://blog.csdn.net/qq_33997572/article/details/79328834
+HDU 3236 二维01背包 很难
+ZOJ 3662 01背包和状态压缩dp有关
+POJ 2983 01背包和状态压缩有关
+Fire Drill UVALive - 5066 (bfs+01背包+略板)
+HDU 3810 搜索+队列模拟分组背包 貌似是个bfs+01背包 并不是组内互斥的分组背包,有难度
+较好的背包 题单:https://blog.csdn.net/zhouzi2018/category_7944951.html
+Team them up! UVA - 1627 (二分图判定+01背包+扩大区间组合数+好题)
+POJ 1417 True Liars(路径压缩并查集+DP背包问题)
+HDU 4395 小数点 精度 01背包 应该是比较简单的 还没看
+HDU 4381 和连续区间有关 好题
+ZOJ 3662
+POJ 1015 输出路径 较复杂
+POJ 1717 CEOI 1997 有难度 创新
+POJ 2923 HDU 4182 01背包+状态压缩dp
+HDU 6092
+CF 724D
+uva 10817 - Headmaster's Headache 背包+状压dp
+POJ 2923 状态压缩DP+01背包
+zoj 3812 We Need Medicine 状压dp+背包
+UVA 990
+HDU 2660
+UVA 11900 UVA 357
+UVA 562 Dividing coins
+
+下面这三道题抽空看看
+HDU 4381 涂色 连续区间段问题
+wannafly 12 C （dp/01背包）简单https://ac.nowcoder.com/acm/contest/79/C?&headNav=www 比较好的创新 试着写写
+银行存款 https://ac.nowcoder.com/acm/contest/79/A?&headNav=www
+
+UVA10817 Headmaster's Headache 记忆化搜索+状压 01背包

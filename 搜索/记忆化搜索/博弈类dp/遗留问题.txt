@@ -1,0 +1,7 @@
+CF283B Cow Program 题意没看懂
+HDU 4597 Play Game 做法没看懂 主要是取差值 减法 博弈的部分 不好理解
+light oj 1031 Easy Game
+博弈背景下的dp与记忆化搜索-讲解:https://blog.csdn.net/qq_35802619/article/details/97369530
+UVA1252 Twenty Questions 博弈+状压dp 博弈的部分不好理解
+uva 10404 Bachet's Game
+hdu 4778 Rabbit Kingdom 博弈+状压dp 不好做

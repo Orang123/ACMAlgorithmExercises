@@ -1,0 +1,10 @@
+洛谷P5058 如果增强数据加上q次询问 可以考虑lca倍增或st表lca倍增的做法遍历圆方树
+洛谷P4606 SDOI2018 战略游戏 圆方树+dfs序+倍增lca
+洛谷P3320 SDOI2005寻宝游戏 dfs序+倍增lca
+[CodeForces 487E]Tourists 圆方树+lca+线段树
+https://www.cnblogs.com/PinkRabbit/p/Introduction-to-Round-Square-Tree.html 很好的圆方树题集
+圆方树] Jzoj P5909 NOIP2018 模拟 跑商 
+这里的圆方树是广义圆方树,貌似圆方树还适用于处理仙人掌图,在"圆方树相关介绍.pdf"中有提到
+
+应用处理仙人掌图 的圆方树 和点双的圆方树不同 洛谷 P6335 [COCI2007-2008#1] STAZA
+洛谷 P4334 [COI2007] Policija 圆方树+lca(树剖 因为倍增空间会炸) 还没做 留了份比较好的板子

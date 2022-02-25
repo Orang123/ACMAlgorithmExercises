@@ -1,0 +1,2 @@
+莫队配合bitset专题 未看
+https://blog.anudeep2011.com/mos-algorithm/ 关于莫队算法的英文文献

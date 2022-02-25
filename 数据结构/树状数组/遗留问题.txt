@@ -1,0 +1,12 @@
+题集:
+JeraKrs 比较难,大量没做过
+https://blog.csdn.net/keshuai19940722/category_1878031.html?spm=1001.2014.3001.5482
+
+围巾的ACM 还剩下些题
+https://blog.csdn.net/qq_21057881/category_6100492.html?spm=1001.2014.3001.5482
+
+键盘里的青春 基本做完了 比较入门基础
+https://blog.csdn.net/qq_34374664/category_6457270.html?spm=1001.2014.3001.5482
+
+海岛Blog 树状数组线段树专题,题量较少,没咋看
+https://blog.csdn.net/tigerisland45/category_6314014.html

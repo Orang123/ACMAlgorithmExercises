@@ -1,0 +1,20 @@
+HDU 4749 情景题 题意不太好理解
+UVA 11557 - Code Theft KMP + HASH 处理不叫麻烦繁琐,题意也不太好理解
+uva 11888 - Abnormal 89's  这个问题应该是Manachar算法解决的
+hdu 4300 Clairewd’s message(KMP) 题意比较难理解 涉及编码 解码 明文 密文,代码量上并不多 也不难,题意半天看不明白
+HDU 4668 Finding string 码量很大,不建议做,题意并不难理解,主要是要处理 压缩,比较繁琐
+hdu 4333 Revolving Digits(拓展KMP) 扩展kmp还没学过
+uva 1358 - Generator(KMP+期望) 和dp 高斯消元等有关
+uva 11604 - General Sultan（KMP+dfs） 貌似是个图论问题,并不是kmp
+
+最小表示法 还没看
+
+参考题单:
+JeraKrs:
+https://blog.csdn.net/keshuai19940722/category_2117139.html?spm=1001.2014.3001.5482 (较难)
+focus_best:
+https://blog.csdn.net/u013480600/category_2167687.html?spm=1001.2014.3001.5482 (较容易)
+TaoSama:
+https://blog.csdn.net/lwt36/category_5948585.html?spm=1001.2014.3001.5515
+leolin_:
+https://blog.csdn.net/leolin_/category_816331.html

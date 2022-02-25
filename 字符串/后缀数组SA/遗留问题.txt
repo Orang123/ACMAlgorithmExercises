@@ -1,0 +1,19 @@
+lcp  sp687 加线段树 st表维护 lcp(i,j) height区间最小定理
+HDU 5442
+POJ 3450 最长公共子串
+
+https://www.cnblogs.com/TheRoadToTheGold/category/969122.html 题单
+
+3道较容易的题 还没看明白:
+uva 11855 - Buzzwords(后缀数组) 
+uva 10526 - Intellectual Property(后缀数组)
+uva 261 - The Window Property(后缀数组)
+
+好的题单:
+JeraKrs:
+https://blog.csdn.net/keshuai19940722/category_2532777.html
+
+focus_best:
+https://blog.csdn.net/u013480600/category_2198615.html?spm=1001.2014.3001.5482
+
+很多后缀数组+二分的题目没做,感觉代码量好大,不是搞竞赛的 感觉没必要去看.

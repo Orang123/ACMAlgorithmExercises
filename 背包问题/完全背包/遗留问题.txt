@@ -1,0 +1,6 @@
+1995 world final POJ 1882 完全背包 算法不难,就是题目意思不太好搞懂
+HDU 3092 数论+完全背包 要筛素因子
+codeforces 317 B. Minimization 偏数学
+HDU 5230 ZCC loves hacking 有点偏 较难想
+UVA 10280+剪枝  比较有创新 有难度 和区间 数学思维有关 比较好的题目
+ZOJ 3623 Battle Ships 看懂了 就是题意描述不清 第i个战舰生产的伤害时间是从0开始算的 代码还没写

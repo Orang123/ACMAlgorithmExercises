@@ -1,0 +1,39 @@
+CF 173B 之前是放在最短路里 用bfs做的 可以考虑 双端队列的做法
+
+这里还需把所有题型在浏览一遍,当时没有浏览.
+还有未做完的题单:(要再做做)
+focus_best:https://blog.csdn.net/u013480600/category_2247941.html (质量较高有部分 hash或康托展开判重的题目)
+围巾的ACM:https://blog.csdn.net/qq_21057881/category_6017787_2.html(还有部分题目没做)
+键盘里的青春:https://blog.csdn.net/qq_34374664/category_6370448.html?spm=1001.2014.3001.5482 (有个别题)
+MissZhou要努力:https://blog.csdn.net/zhou_yujia/category_5713189.html(基本做完,差这题 情景题非迷宫UVALive 7263 Today Is a Rainy Day 【bfs】)
+iHge2k:https://blog.csdn.net/zjsyhjh/category_2291091.html
+Stayaccept:https://blog.csdn.net/stay_accept/category_5713201.html?spm=1001.2014.3001.5482(bfs基本做完,差1两道题)
+
+对于hash或康托展开判重、状态压缩、双端队列(dbfs)的题目还需再多做点,做得有点少
+CF 173B Chamber of Secrets(双端队列) 使用了stl中的deque
+
+CF 164A 输入 n 和 m ，表示有 n 个点和 m 条边（单向） 若一条路径从 1 开始，到 2 结束，
+并且中间没有 1 ，那么这条路径就是“有趣路径” 询问：哪些是“有趣路径”哪些不是
+两次bfs或dfs 第一次从1开始的正向遍历(正向边) 第二次从2开始的反向遍历(反向边)
+做法并不局限于bfs,dfs也可以,复杂度也是一样的,就是考察的图的遍历.
+
+HDU 5961 感觉还是在考察图的遍历,bfs或dfs都可以. 做这题的意义不大
+
+POJ 1426 Find The Multiple 试试bfs
+HDU 3713
+
+HDU 1104 1676
+
+卞振伟 题单:
+HDU 1067 Gap
+HDU 3085 Nightmare Ⅱ
+ZOJ 2477 Magic Cube
+HDU 1560 DNA sequence
+HDU 3533 Escape
+HDU 2181 哈密顿绕行世界问题
+HDU 3567 Eight II
+POJ 1251 Jungle Roads
+POJ-1321 棋盘问题 之前是用dfs暴力做的,试着bfs做做
+POJ-3279 Fliptile
+POJ-1426 Find The Multiple 之前是用dfs暴力做的，试着bfs做做
+POJ-3087 Shuffle'm Up 这题网上都是模拟暴力解法 https://www.bianzw.cn/web/html/155.html 实际是bfs

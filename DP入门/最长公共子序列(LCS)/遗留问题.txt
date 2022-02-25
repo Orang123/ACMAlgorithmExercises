@@ -1,0 +1,29 @@
+如何判断序列s是否为序列S的子序列 感觉可以O(n)求解,就是从s的每一位去在S中遍历,
+如果相等,i++,j++,不相等S下标j++,依次判断下一位,因为是判断s是否是其子序列,
+那就必须s的每一位都能按顺序在S中找到,结束标志是i到达s的尾标代表s是S子序列,
+否则j到达S尾标,说明s不是S子序列.伪代码为算法设计chapter 4 课后第4题
+	Initially i-j-1
+	While i<=n and j<=m
+		If si is the same as s’j,then
+			Let kj – i
+			Let i = i | 1 and j = j | 1
+		otherwise let i = i | 1
+	EndWhile
+	If j = m | 1 return the subsequence found: k1,…,km
+	Else return that “S’ is not a subsequence of S”.
+LCS 分治法结合动态规划(在滚动数组条件下输出LCS) 求完一段 把空间释放另一段再用,线性空间回溯最优解 通过建返图,
+根据LCS的记忆化搜索发现 问题本身转化为了 最短路问题,解是正图(0到i-j)和反图(i-j到m-n)
+的最短路之和. 研一算法课 7-dp.pdf 104slides 论文A linear Space Algorithm for Computing Maximal Common Subsequences
+我暂时输出LCS的办法是不能用滚动数组优化的
+
+LCS LIS 题集:https://blog.csdn.net/qq_36368339/category_6729546.html
+https://blog.csdn.net/u013480600/category_2650821.html
+https://blog.csdn.net/vv494049661/category_6081571.html
+https://blog.csdn.net/tigerisland45/category_9827807.html
+
+
+POJ 1934 输出所有的LCS,CEOI 2003,有难度 没太看懂.
+POJ 1458  UVA10405 LCS裸题 太简单不做
+uva 11081 - Strings 貌似是字符串dp 有所难度
+uva 10635 - Prince and Princess 需要转化成LIS来做 还没看
+uva 10069 Distinct Subsequences(高精度 + DP求解子串个数） 没看 有难度

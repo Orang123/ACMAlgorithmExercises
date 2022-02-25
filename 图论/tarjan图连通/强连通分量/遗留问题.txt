@@ -1,0 +1,7 @@
+https://blog.csdn.net/whereisherofrom/article/details/79495842 SCC 2-SAT题集
+洛谷 P5676 [GZOI2017]小z玩游戏 思维建边的情景题 蓝题
+POJ 1904 一组数据能hack掉该算法的正确性,题目本身的漏洞.
+
+HDU 4685 wa 好像网上的做法求解二分图完美匹配和tarjan求scc并不建在一张图里,
+//求完美匹配用的vector,求scc用的是链式前向星,不懂原因,不知道是不是以为这个原因wa了,而且数组大小按照题目给出的数据设500,会runtime error,
+//设大设成2000 不会runrime error,但是会wa,不懂原因.

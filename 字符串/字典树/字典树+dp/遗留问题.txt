@@ -1,0 +1,2 @@
+UVA 1401 Remember the Word(DP+字典树Trie) dp部分没太看懂 挺简单的
+HDU 5119 好像可以用字典树做 https://blog.csdn.net/qq_21057881/article/details/51340350 是道状压dp

@@ -1,0 +1,13 @@
+bi–directional 双向的
+interconnects 互联
+critical 关键的
+equivalent 等价的
+invertible 可逆的
+undirected graph 无向图 directed graph 有向图
+directly or indirectly 直接或间接
+key relations 关键关系
+bidirectional 双向的
+Unidirectional 单向的
+two way 双行路 one way 单行路
+一般出现 可以经过某个点或边多次,都是强连通图的问题
+junctions 路口

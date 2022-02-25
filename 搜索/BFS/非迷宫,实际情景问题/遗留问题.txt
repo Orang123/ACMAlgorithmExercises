@@ -1,0 +1,6 @@
+UVALive7263-Today Is a Rainy Day(2015ICPC北京C题) 看不懂预处理,思维上不好理解
+参考博客可读性高点:https://www.cnblogs.com/bk-201/p/8886742.html
+
+POJ 2647 Doublets 题意不好理解,做的人比较少 1999年的题目只有371人做,百度参考博客也很少 好像只有一个
+
+HDU 3126和HDU 1226是同种类型题 还差 HDU 1226

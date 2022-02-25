@@ -1,0 +1,8 @@
+树的直径 未做题目
+https://oi-wiki.org/graph/tree-diameter/  oi-wiki有链接
+CodeChef, Diameter of Tree
+Educational Codeforces Round 35, Problem F, Tree Destruction
+ZOJ 3820, Building Fire Stations
+CEOI2019/CodeForces 1192B. Dynamic Diameter
+IPSC 2019 网络赛，Lightning Routing I
+树的直径:好的题单 https://blog.csdn.net/acmmmm/category_1524339.html?spm=1001.2014.3001.5482

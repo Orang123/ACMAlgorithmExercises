@@ -1,0 +1,3 @@
+好像还有个二维费用背包问题 https://zhuanlan.zhihu.com/p/85783138 
+
+HDU 3236 二维01背包比较繁琐

@@ -1,0 +1,4 @@
+SAM题单:https://blog.csdn.net/dreaming__ldx/category_7810014.html
+
+后缀自动机 讲述博客:https://www.cnblogs.com/GBRgbr/p/3236451.html
+B站 雷智杰讲过 一期后缀自动机 可以看看

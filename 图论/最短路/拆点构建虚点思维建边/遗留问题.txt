@@ -1,0 +1,11 @@
+HDU 6805 左右状态拆点 wa
+https://blog.csdn.net/leoxe/article/details/107704404 
+https://blog.csdn.net/qq_42840665/article/details/107702909
+自己的写法wa了不知何原因
+
+HDU 4370 看不懂题意
+UVA 1078 拆点+最短路+记忆化搜索 太复杂
+洛谷P3953 拆点+拓扑排序+最短路 逛公园 看不懂
+Codeforces 821D 拆点+最短路 太复杂
+
+AtCoder ARC 084 D - Small Multiple 不能理解 把取模的余数作为实际的点

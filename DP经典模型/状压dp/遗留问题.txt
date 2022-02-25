@@ -1,0 +1,19 @@
+ZOJ 3662 01背包和状态压缩dp有关
+POJ 2983 01背包和状态压缩有关
+
+UVA1099 Sharing Chocolate 状压 遍历集合所有子集部分不好理解 感觉出的可能性很低
+UVA1252 Twenty Questions 博弈+状压dp 博弈的部分不好理解
+UVA11600 Masud Rana 期望状压dp 难度较大,题意不好理解 不建议做
+
+UVA10817 Headmaster's Headache 记忆化搜索+状压 01背包
+
+题库:这些题库中的状压dp都较难(相比记忆化搜索中的状压dp),暂时还无法掌握
+https://blog.csdn.net/qq_34374664/category_6543315.html?spm=1001.2014.3001.5482 键盘里的青春
+https://blog.csdn.net/qq_21057881/category_6377765.html?spm=1001.2014.3001.5482 围巾的ACM
+https://blog.csdn.net/stay_accept/category_6391816.html?spm=1001.2014.3001.5482 Stayaccept
+https://blog.csdn.net/u013480600/category_1916309.html?spm=1001.2014.3001.5482 focus_best
+https://blog.csdn.net/zhou_yujia/category_6219688.html?spm=1001.2014.3001.5482 MissZhou要努力
+
+记忆化搜索我分类的2个专题 1.每种物品只有一个(状压) 2.清除一条直线上的点 实际就是状压dp的简单入门版本 
+
+

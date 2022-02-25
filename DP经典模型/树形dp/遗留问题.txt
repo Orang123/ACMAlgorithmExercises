@@ -1,0 +1,74 @@
+HDU 2196 换根dp 树的直径看懂了 记忆化搜索做法没看懂
+树形背包 好像和分组背包 有关 POJ 2486 POJ1155 POJ1947 没看懂
+HDU 4799题意 看不懂
+HDU 5682 对区间二分+树形dp https://www.cnblogs.com/mjtcn/p/10346426.html
+HDU 4616 https://www.cnblogs.com/martinue/p/5490423.html 自己写了暴力做法 在HDU提交记录里 不过太暴力了 有更优的做法
+
+洛谷P3237 [HNOI2014]米特运输 和数学 log 有关 代码不长  没看懂
+
+二分答案+树形dp 洛谷P3523 P3554
+
+POJ 2057 概率问题
+
+其余树形dp题目的记忆化搜索形式记得补一下.
+
+P1122 最大子树和
+POJ 3170
+CF 274B 219D 461B
+FZU 2195
+POJ 1770
+福建省2014ACM省赛H Big castle (树形dp)
+codeforces 294E Shaass the Great (树形dp，好题)
+
+树形dp好的题单(还剩下非背包类的):
+https://blog.csdn.net/my_acm_dream/category_2768273.html?spm=1001.2014.3001.5482
+https://blog.csdn.net/stay_accept/category_6384863.html?spm=1001.2014.3001.5482
+https://blog.csdn.net/acmmmm/category_1523593.html?spm=1001.2014.3001.5482
+https://blog.csdn.net/keshuai19940722/category_1909649.html?spm=1001.2014.3001.5482
+https://blog.csdn.net/qq_33229466/category_6120134.html?spm=1001.2014.3001.5482
+https://blog.csdn.net/nike0good/category_1204361.html
+https://blog.csdn.net/qq_42576687/category_9199370.html
+https://blog.csdn.net/zhou_yujia/category_6219692.html?spm=1001.2014.3001.5482
+https://blog.csdn.net/jtjy568805874/category_2910469.html?spm=1001.2014.3001.5482
+HDU 5326
+HDU 6035
+vijos p1144(树形dp)
+HDU 4340
+UVA 12452 Plants vs. Zombies HD SP 树形dp
+UVA 11174 Stand in a Line 树形dp+计数
+CodeForces 158E Phone Talks 树形dp+计数
+Codeforces 212E IT Restaurants 树形dp（水
+Codeforces 294E Shaass the Great 树形dp（水
+CodeForces 238C World Eater Brothers 树形dp
+Codeforces 543D Road Improvement 树形dp
+hdu 5290 Bombing plan
+hdu 5379 Mahjong tree 树形dp
+Codeforces 462D Appleman and Tree 树形dp
+HDU 4118 树型dp
+Codeforce 337D 容斥+树形dp
+HDU 4008 Parent and son LCA+树形dp
+Codeforces 77C 树形dp + 贪心
+HDU 4035 Maze 概率dp+树形dp
+HDU 4303 Hourai Jeweled 树形dp 所有路径点权和 dfs2次
+HDU 4313 Matrix 树形dp
+hdu 4799 LIKE vs CANDLE（树形dp）
+hdu 4616 Game（树形dp）
+hdu 4679 Terrorist’s destroy（树形dp）
+hdu 4661 Message Passing（树形dp）
+hdu 5325 Crazy Bobo（树形dp）
+hdu 5293 Tree chain problem（树链剖分+树形dp）
+hdu 4123 Bob’s Race(树形dp+RMQ)
+Codeforces 461B Appleman and Tree(树形dp)
+uva 11307 - Alternative Arborescence（树形dp)
+uva 1484 - Alice and Bob's Trip（树形dp）
+uva 12223 - Moving to Nuremberg(树形dp）
+hdu 5593 ZYB's Tree（树形dp）
+
+POJ 1935
+
+比较难的树形dp 含有二进制枚举集合子集
+
+
+
+
+

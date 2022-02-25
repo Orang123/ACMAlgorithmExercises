@@ -1,0 +1,4 @@
+洛谷P2613 有理数取余  扩展欧几里得较发咋 可考虑 费马定理快速幂
+
+POJ 1061(洛谷P1516) 青蛙的约会 不懂
+OI wiki Codeforces Round #290 (Div. 2) D. Fox And Jumping

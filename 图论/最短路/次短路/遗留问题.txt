@@ -1,0 +1,6 @@
+洛谷P1491 集合位置 https://blog.csdn.net/cggwz/article/details/106961351(次短路裸题)
+https://www.cnblogs.com/liuwenyao/p/10162462.html 求解次短路两种方法 spfa 和A*(k短路)
+
+https://www.cnblogs.com/Garen-Wang/p/10228286.html 还有删边的做法
+
+P2865 [USACO06NOV]Roadblocks G 次短路裸题 还没做

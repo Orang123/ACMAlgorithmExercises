@@ -1,0 +1,4 @@
+UVA1252 Twenty Questions 博弈+状压dp 博弈的部分不好理解
+UVA11600 Masud Rana 期望状压dp 难度较大,题意不好理解 不建议做
+
+UVA10817 Headmaster's Headache 记忆化搜索+状压 01背包

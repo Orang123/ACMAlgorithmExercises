@@ -1,0 +1,1 @@
+UVA12511 Virus LCIS裸题 O(n^2)和 HDU 1423一样 不用做了

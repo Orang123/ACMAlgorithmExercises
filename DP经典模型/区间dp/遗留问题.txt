@@ -1,0 +1,23 @@
+HDU 5396 HDU 5151 light oj 1031
+四边形不等式优化 GarsiaWachs算法 不懂
+POJ 1651还可转化成矩阵连乘问题
+
+CF149D 括号染色问题 
+
+洛谷P4767 邮局 划分型dp dp[i][0] 前i个村庄放0个邮局的距离和是0,
+但是在放第一个邮局的时候只计算[i+1,ed]的村庄的距离和,前面的不管吗。
+
+三维区间dp 试着写成记忆化搜索
+
+洛谷P2470SCOI2007 压缩
+
+UVA Live 4857/UVA 12283 Halloween Costumes 穿衣服 和light oj一道做过的题目很像
+
+HDU 3280
+区间dp的一个题单:
+https://blog.csdn.net/my_acm_dream/category_2768265.html?spm=1001.2014.3001.5482
+
+夜深人静写算法 博客 公众号里 总结了一些 原始暴力做法 和 题型的分类
+
+UVA10688 The Poor Giant  标准经典的 区间dp O(n^3) 这个当时是做记忆化搜索专题找到的一个题 代码很简单,但是不理解意义,题目意思也不是很看懂
+

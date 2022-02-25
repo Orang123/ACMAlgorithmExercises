@@ -1,0 +1,4 @@
+FZU 2214 //FZUOJ 不能判题一直Queuing... 标程应该是没问题的,能ac.
+
+HDU 3602 一个国家所有人必须防止在一搜飞艇上 这种连续思维和POJ 1976较相像
+USACO Section 3.4 Rockers 和HDU 3602 好像比较相像 https://blog.csdn.net/morgan_xww/article/details/6611834

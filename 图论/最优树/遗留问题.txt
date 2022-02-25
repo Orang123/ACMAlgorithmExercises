@@ -1,0 +1,13 @@
+还有飘过的小牛 prim的做法:https://blog.csdn.net/niushuai666/article/details/6925258
+// ZOJ 1586 s在kruskal 加边时 edge[i].w+val[edge[i].u]+val[edge[i].v] 为何会wa?
+Prim算法适合稠密图，Kruskal算法适合稀疏图，可以使用prim和kruskal两种方法。该题(POJ 1789)是稠密的图。求最小生成树的最段路径问题： 试着分析下 稀疏图和稠密图
+POJ 1789键盘里的青春 新的模板
+
+非严格次小生成树 这里判断唯一可以试着用lca倍增去判断 构成环的边权是否等于mst路径上的最大边权,若等于则说明mst不唯一,否则mst是唯一的
+
+【Nowcoder】2020牛客暑期多校训练营（第五场）B-graph | 最小异或生成树 https://ac.nowcoder.com/acm/contest/5670/B 要付费
+洛谷P3623 [APIO2008]免费道路 三次并查集,着重于考察并查集 没做
+
+https://blog.csdn.net/forever_dreams/category_7892130.html 这个最小树的专栏有比较经典的题目还没做
+斯坦纳树
+

@@ -1,0 +1,4 @@
+多重背包单调队列优化 被楼天城称"《男人八题》"-《难人八题》 暂时还未理解 
+实际应该出不了这么难的 比较困难
+参考题解:https://www.acwing.com/problem/content/solution/6/1/
+参考博客:https://blog.csdn.net/weixin_46503238/article/details/115132242

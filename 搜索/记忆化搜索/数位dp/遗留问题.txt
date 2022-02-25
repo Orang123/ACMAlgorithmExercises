@@ -1,0 +1,5 @@
+lightoj 1021 Painful Bases 数位dp+状压
+CF 401D Roman and Numbers 数位dp+状压 和lightoj 1021好像是一道题
+HDU 4734(数位dp)  HDU 4722(数位dp)
+poj 3373 数位dp
+HDU 5456

@@ -1,0 +1,15 @@
+关于memset的一个问题(不过我后来再试已经没有问题了)
+for(int i=1;i<=n;i++)
+        dis[i]=i==s?0:INF;//这里应该是可以用memset(dis,INF,sizeof(dis))的,
+如果出错 可以试试memset(dis,0x3f,sizoef(dis));按字节即8位去 初始化值
+实在不行再用 for(int i=1;i<=n;i++)
+        	dis[i]=i==s?0:INF;
+
+POJ 2195 还可用最小费用流求解
+HDU 3395 还可用最大费用流来做
+HDU 3435 此题还可用费用流求解
+HDU 3488 也可用费用流解
+HDU 2448 港口和油井间只能建单向边 不知啥原因,双向边就会wa. 还可用费用流解决
+HDU 2853 3315 可用最大费用流解决
+
+HDU 4780 HDU 5520

@@ -1,0 +1,1 @@
+Codeforces 432D Prefixes and Suffixes(KMP+dp) 和 51nod 1277 一模一样

@@ -1,0 +1,21 @@
+下面这几道IDA*都看懂了 还没做:
+做的时候 试着IDA*和bfs都试试
+HDU 2234 无题(较容易,比较入门)
+HDU 2918 Tobo or not Tobo(较容易)
+POJ 2331 Water pipe(较好) 这个bfs肯定不行,空间复杂度太大,扩展呈指数量级增加
+
+UVA 10422 - Knights in FEN 好像bfs和IDA*都能做
+
+UVa1603 - Square Destroyer IDA* 看起来有所难度 火柴棍问题,还没看
+
+
+下面几道 难度较大 不好理解 不建议做:
+HDU 3459 Rubik 2×2×2
+HDU 1813 Escape from Tetris
+
+
+
+HDU 2485 最小割这个题的IDA*做法还没看
+
+之前做过的IDA*题单:
+https://blog.csdn.net/inuyasha__/category_9334688.html

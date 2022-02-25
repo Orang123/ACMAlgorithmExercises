@@ -1,0 +1,5 @@
+有三种求解费用流的算法 spfa、Dijkstra(Johnson算法)、zkw费用流(暂未了解)
+zkw费用流暂未了解,据说效率很高,不过除了OI个别题目一般不会卡这个时限强制用zkw费用流
+好像还有个zkw线段树,zkw貌似已经归隐,去了二本教书.
+
+zkw费用流博客:https://artofproblemsolving.com/community/h1020435

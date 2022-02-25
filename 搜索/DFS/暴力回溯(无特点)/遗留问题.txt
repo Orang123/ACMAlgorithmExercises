@@ -1,0 +1,3 @@
+POJ 2192 字符串匹配 可以dfs暴力 也可以 dp
+uva 656 - Optimal Programs(递归) https://blog.csdn.net/keshuai19940722/article/details/17566271
+uva 10795 - A Different Task(递归） https://blog.csdn.net/keshuai19940722/article/details/17187147

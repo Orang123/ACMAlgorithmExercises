@@ -1,0 +1,19 @@
+CF 559B  https://codeforces.ml/problemset/problem/559/B
+题意:定义相等的字符串为它的等分成的两个字串相等，或交叉相等，问给出的两个字串是不是相同
+
+二分解决最大值最小化问题时的依据 如何证明解的正确性
+
+下面是二分答案 dfs验证的一些题目需要再次 做一遍
+洛谷P3073 [USACO13FEB]Tractor S
+UVALive 4223
+洛谷P1462 P1948 P1528 P2329 P3586 P1396
+POJ 1797
+洛谷 uva 10163 Storage Keepers
+二分的两种形式：
+1、范围缩小时，r = mid，l = mid + 1，取中间值时，mid = (l + r) >> 1.
+2、范围缩小时，l = mid，r = mid - 1，取中间值时，mid = (l + r + 1) >> 1;
+
+计算逆序对 蛮力法 O(N^2)  树状数组和归并排序 O(NlogN)
+
+Closest Pair of Points 最近点对  看研一 李鑫老师算法课上的分治课 06-divide-and-conquer.pdf 那些问题
+快速傅里叶变换 分治法

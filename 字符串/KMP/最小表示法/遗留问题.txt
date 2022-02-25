@@ -1,0 +1,4 @@
+需要先看 字符串最小表示法如何实现 是用来干什么的
+HDU 2609 How many 最小表示法裸题
+hdu 3374 String Problem(KMP + 最小串）还没看
+hdu 5442 Favorite Donut（最小表示法+kmp） 没看

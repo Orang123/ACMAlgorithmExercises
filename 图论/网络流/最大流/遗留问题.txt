@@ -1,0 +1,25 @@
+最小费用 
+最小割
+https://www.luogu.com.cn/problem/P4011 和网络流 01bfs 状态压缩 分层图最短路相关
+
+FF算法 是提出了反向弧理论,更新增广路径的思维,是EK和Dinnic算法的核心思维 
+也是其他变种算法的基本思维
+HDU 3605还可用网络流解决
+
+POJ 2112 二分最大流/多重匹配
+POJ 2391 二分拆点最大流
+POJ 1422 可转化为网络流问题 https://www.cnblogs.com/zxyoi/archive/2004/01/13/10047233.html
+POJ 2594 可转化为 有源汇上下界网络流 最小流 https://blog.csdn.net/inf_force/article/details/48347813
+POJ 2391 二分最大流
+POJ 3020 别的做法 网络流 状压dp 带花树开花算法
+P3227 [HNOI2013]切糕
+
+https://loj.ac/p?tagIds=30 网络流24题
+
+UvaLive 7037 The Problem Needs 3D Arrays  GYM 100548 最大密度子图转为最大权闭合图 不懂
+洛谷 UVA11082 Matrix Decompressing wa 和别人写的代码输出矩阵不一样,
+这个做法 具体原理还有待证明,暂时只是知道这个做法能做对.
+
+HDU 2883 离散化+最大流 HDU 3081 并查集 floyd 二分最大流
+
+

@@ -1,0 +1,2 @@
+light oj 1300 边双连通+奇圈判定(二分图染色)
+http://codeforces.com/problemset/problem/118/E 比较简单

@@ -1,0 +1,6 @@
+刘汝佳爆搜版本的做法 还没去深究,tarjan求解法基本理解了,这里做题不多,
+主要是为了跟二分图匹配问题区分开.
+有时间了深入研究下 B站这个视频和下面的博客
+https://www.bilibili.com/video/BV11741187oK?p=2   2-sat问题的详细视频讲解
+https://blog.csdn.net/gyp0205/article/details/109636399 2-sat详细博客讲解
+P1407 [国家集训队]稳定婚姻

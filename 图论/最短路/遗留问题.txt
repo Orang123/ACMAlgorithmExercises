@@ -1,0 +1,25 @@
+https://blog.csdn.net/niushuai666/article/details/7292722 好几个方法做HDU 2544
+测试HDU 2544数据
+1 2 10
+2 3 50
+3 4 20
+4 5 60
+5 1 100
+1 4 30
+3 5 10
+
+POJ 3259 BF算法 判断负环
+CF544D 看不懂做法和题意
+POJ 1062 wa 不明什么原因
+UVA11374 Airport Express 分层图最短路 思维建边方式不懂
+POJ 2253和POJ 1797 同类型的题目,一个最大值最小,一个最小值最大
+HDU 5545 没看懂题意
+CF544D 代码看不懂 
+洛谷 P2169 正则表达式 tarjan+最短路 没做
+洛谷 P3393 逃离僵尸岛 没做
+
+【Codeforces】 545E Paths and Trees | 最小最短路树
+最短路树 UVA1416 还缺最短路树
+
+P2149 [SDOI2009]Elaxia的路线 最短路+拓扑序 求解最长公共路径的长度
+Bellman-Ford 判负环代码实现  OI-wiki

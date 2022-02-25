@@ -1,0 +1,12 @@
+uva 1076 - Password Suspects(AC自动机+记忆化搜索)
+还差AC自动机+dp,AC自动机+矩阵幂 两个专题 感觉比较难,综合性太大,暂时不建议做,无法变现,意义不大
+HDU 5164 Matching on Array 需要缩放子串,AC自动机套map,比较麻烦,不建议做
+
+题集:
+focus_best:
+https://blog.csdn.net/u013480600/category_2179307.html?spm=1001.2014.3001.5482
+JeraKrs:
+https://blog.csdn.net/keshuai19940722/category_2518187.html
+
+HDU 1277 AC自动机模板题 非常简单,不做了
+UVA 11019 文本矩阵中是否包含模式矩阵,这题出的比较好,但一直理解不了做法,并不难,可以再看看.

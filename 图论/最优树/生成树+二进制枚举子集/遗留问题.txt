@@ -1,0 +1,6 @@
+UVA 10807 最小树+二进制枚举 还没做 没看懂 有点难理解 题解 https://blog.csdn.net/u012596172/article/details/42610761
+Codeforces 916 二进制1数目构造(阅读理解) 最小生成树1-N路径质数构造 没看
+HDU 5627 让你求位运算n-1条边权&意义下的最大生成树 试着写一写  题目有些偏 https://www.cnblogs.com/spfa/p/6594738.html(做法比较精简)
+https://blog.csdn.net/morejarphone/article/details/50670419 https://blog.csdn.net/lwt36/article/details/50660006
+
+【Nowcoder】2020牛客暑期多校训练营（第五场）B-graph | 最小异或生成树 https://ac.nowcoder.com/acm/contest/5670/B 要付费 还没做
